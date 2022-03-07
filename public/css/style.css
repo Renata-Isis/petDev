@@ -98,6 +98,10 @@ h2 {
     text-align: center;
 }
 
+.no-list {
+    margin-bottom: 50px;
+}
+
 .list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
